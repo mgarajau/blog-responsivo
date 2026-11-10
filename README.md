@@ -1,6 +1,6 @@
 # 📰 Blog Responsivo — The Dev News
 
-Página de blog **totalmente responsiva**, desenvolvida com **HTML e CSS** em um desafio prático da formação em Engenharia de Software da Escola DNC.
+Página de blog **totalmente responsiva**, desenvolvida com **HTML e CSS** em um desafio prático da formação em desenvolvimento de software da Escola DNC.
 
 🔗 **Ver online:** https://mgarajau.github.io/blog-responsivo/
 
